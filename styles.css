@@ -1,0 +1,12 @@
+body{
+    background-color:LightYellow;
+    font-family: arial;
+}
+
+h1 {
+    color: salmon;
+    font-family: tahoma;
+}
+ul{
+    list-style-type:square;
+}
